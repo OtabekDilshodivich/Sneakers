@@ -5,136 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14152708-06be-4230-9320-adb903f641dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoonlineshop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoonlineshop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/djangoonlineshop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/basic/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/basic/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/basic/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/basic/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/f-r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/f-r_BMvedwS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/f-r_I6AgKGX.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/f-r_jIjHAOc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid12_Jw2C0Iz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid12_VTE7fpF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid12_bw2nvFL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid13_xTmJg5a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid3_lIm6PRN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid6_CNPL6VJ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid6_fYnbzPb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid8_CQLu1dx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid8_j4qcrxJ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/grid9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/menu3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0002_sneakers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0003_sneakers_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0004_buy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0005_advertising.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0006_sneakers_last_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0007_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/0008_contact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/online_shop/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/shoe1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/shoe1_Zo6gpdR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/shoe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/shoe3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/show.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/show3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/show_T13pxpQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/.idea/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/css/flexslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/css/form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/css/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/Archivo_Narrow/ArchivoNarrow-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/Archivo_Narrow/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/Didact_Gothic/DidactGothic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/Didact_Gothic/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/Pathway_Gothic_One/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/Pathway_Gothic_One/PathwayGothicOne-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/b-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/do.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/f-l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/f-l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/f-r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/f-r.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/grid9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/menu1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/menu2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/menu3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/shoe1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/shoe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/shoe3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/show.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/show1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/show2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/images/show3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/js/imagezoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/js/jquery.flexslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/js/simpleCart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/static/w3layouts-License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/templates/blog/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/templates/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/templates/blog/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/templates/blog/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneakershop/templates/blog/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sneakershop/basic/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sneakershop/basic/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,15 +26,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\080 it center\PycharmProjects\djangoonlineshop" />
       <recent name="C:\Users\080 it center\PycharmProjects\djangoonlineshop\sneakershop" />
       <recent name="C:\Users\080 it center\PycharmProjects\djangoonlineshop\templates\blog" />
       <recent name="C:\Users\080 it center\PycharmProjects\djangoonlineshop\static" />
